@@ -82,7 +82,7 @@ Date	Model	Storage	Color	Price	Units_Sold	Region	Sales_Channel
 
 Clone the repository:
 
-git clone https://github.com/your-username/iphone-sales-analytics.git
+git clone https://github.com/SahilDahariya/iphone-sales-analytics.git
 cd iphone-sales-analytics
 
 Install dependencies:
@@ -142,8 +142,3 @@ This project is open-source and available under the MIT License.
 
 
 ---
-
-If you want, I can also:
-- Make it **more attractive with badges + screenshots**
-- Add a **LinkedIn-ready project description**
-- Create a **GitHub portfolio version (top 1% level)** 🚀
